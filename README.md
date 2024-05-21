@@ -1,6 +1,6 @@
 # BMI Calculator with flutter
-## Screenshots
-<table style={border:"none"}><tr><td><img src="one.png" alt="Home Screen(default)"/></td><td><img src="two.png" alt="Home Screen(Location Popup)"/></td></tr></table>
+![image](https://github.com/AhmadIb227/BMI_App/assets/127244426/e86a0cdc-d32c-49b3-9fb1-4c849b437e24)
+![image](https://github.com/AhmadIb227/BMI_App/assets/127244426/ad3db063-680a-495d-8a50-f70f8d128fcf)
 
 
 
